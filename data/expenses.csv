@@ -1,0 +1,7 @@
+date,category,amount,type
+2025-01-01,Salary,50000,Income
+2025-01-02,Rent,12000,Expense
+2025-01-05,Groceries,3500,Expense
+2025-01-10,Transport,1500,Expense
+2025-01-15,Entertainment,2000,Expense
+2025-01-20,Electricity,1800,Expense
